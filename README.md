@@ -2,3 +2,4 @@
 My new text
 
 Some new text
+fix2 changes
